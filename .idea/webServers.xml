@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e3582790-9de1-46e4-80ad-ef616d37aec1" name="172.16.92.9999">
+        <fileTransfer rootFolder="/opt/jupyter-notebook/DingdingProject/1_Intelligent_Robot" accessType="SFTP" host="172.16.92.9" port="31155" sshConfigId="bfdf3b5d-0dc4-445b-b0d0-7c0128766543" sshConfig="root@172.16.92.9:31155 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
